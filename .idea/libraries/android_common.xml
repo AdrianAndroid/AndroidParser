@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/android-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android-extensions-ide.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

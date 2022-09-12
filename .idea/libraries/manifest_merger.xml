@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="manifest-merger">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/manifest-merger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

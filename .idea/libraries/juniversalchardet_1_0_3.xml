@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="juniversalchardet-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/juniversalchardet-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatbuffers-java-1.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layout_inspector_compose_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kxml2-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/instantapps-api-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-guava-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/emulator_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javapoet-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/data-binding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/explainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layout_inspector_snapshot_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-4.4-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layout_inspector_skia_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacpp-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/inspectors-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jetifier-core-1.0.0-beta09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/game-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/game-tools-protos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/deploy_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-analytics-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layout_inspector_view_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layoutlib-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layoutlib-loader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libam-instrumentation-data-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libandroid-core-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libapp-processes-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libjava_sites.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libjava_version.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libstudio.android-test-plugin-host-device-info-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libstudio.android-test-plugin-host-retention-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libstudio.android-test-plugin-result-listener-gradle-proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libstudio.proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lint-ide.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/moshi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/network_inspector_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.elk.alg.layered-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.elk.core-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.elk.graph-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf.common-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.emf.ecore-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pepk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/perfetto-protos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pixelprobe.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

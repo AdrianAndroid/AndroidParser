@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-kotlin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/android-kotlin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android-profilers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

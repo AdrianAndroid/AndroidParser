@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="backgroundtask_inspector_java_proto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/backgroundtask_inspector_java_proto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/auto-common-0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/artwork.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/baksmali-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-analysis-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-tree-7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

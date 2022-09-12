@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compilerCommon.antlr.shaded_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/compilerCommon.antlr.shaded_jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compilerCommon.antlr_runtime.shaded_jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

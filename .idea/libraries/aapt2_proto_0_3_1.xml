@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aapt2-proto-0.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aapt2-proto-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/adt-ui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

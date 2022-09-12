@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-rt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/android-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
