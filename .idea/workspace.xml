@@ -4,45 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="676869f7-f729-4b9f-a5ae-ad32d528e7c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/aapt2_proto_0_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_apk.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_base_common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_extensions_ide.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_kotlin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/android_rt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/backgroundtask_inspector_java_proto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/build_common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/compilerCommon_antlr_shaded_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/core_proto_0_0_8_alpha07.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dexlib2_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jarutils.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/juniversalchardet_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/manifest_merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/r8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sdklib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/util_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AndroidParser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android-apk/android-apk.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/app/src/main/bak-AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flannery/parse/ParseManifest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flannery/parse/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android_project/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android_project/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android_project/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project/libjavakotlin/src/main/java/com/example/libjavakotlin/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/android_project/libjavakotlin/src/main/java/com/example/libjavakotlin/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android_project/settings.gradle" afterDir="false" />
+    <list default="true" id="676869f7-f729-4b9f-a5ae-ad32d528e7c7" name="Changes" comment="解析Manifest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/android_project" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -131,6 +94,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662997024638</updated>
     </task>
+    <task id="LOCAL-00001" summary="解析Manifest">
+      <created>1663004517563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663004517563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="解析Manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="解析Manifest" />
   </component>
 </project>
